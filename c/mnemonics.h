@@ -1,8 +1,0 @@
-#ifndef MNEMONICS_H
-#define MNEMONICS_H
-
-// bits 32
-// 0000 0000 0000 0000 0000 0000 0000 0000
-// 2^32
-
-#endif
